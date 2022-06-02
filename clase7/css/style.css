@@ -44,7 +44,8 @@ footer{
     margin: 2px;
 }
 .texto-pie{
-    display:block;
-    margin:auto;
+    /*display:block;
+    margin:auto;*/
+    text-align: center;
 }
 

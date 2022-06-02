@@ -1,0 +1,66 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul.datos-personales{
+    list-style-type: none;
+}
+
+.subrtitulos-de-datos{
+    font-weight: bold;
+}
+
+
+h1{
+    text-align: center;
+    height: 50px;
+    
+}
+h1, h3{
+    
+    background-color: rgb(255, 235, 205);
+    text-transform: uppercase;
+    letter-spacing: 0px;
+}
+.titulo{
+    height: 150px;
+    
+}
+
+
+#foto-presentacion{
+    display:block;
+    margin:auto;
+    width: 150px;
+}
+
+
+span.texto-respuesta{
+    margin-left: 121px;
+}
+footer{
+    text-align:center;
+    background-color: rgb(255, 235, 205);
+    
+    
+}
+.social{
+    width: 20px ;
+    margin: auto;
+}
+.sobre-mi{
+    width: 30px ;
+    display: block;
+    margin: auto;
+}
+
+.banner{
+    background:  url("../img/banner.png");
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:bottom left;
+    opacity: calc(0.3);
+    height: 500px;
+    
+}
